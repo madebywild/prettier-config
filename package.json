@@ -1,0 +1,24 @@
+{
+  "name": "@madebywild/config-prettier",
+  "version": "0.0.1",
+  "description": "wild's Prettier config",
+  "homepage": "https://github.com/madebywild/config-prettier",
+  "author": "WILD <weare@wild.as> (https://wild.as)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madebywild/config-prettier/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madebywild/config-prettier.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "config",
+    "wild",
+    "madebywild",
+    "typescript"
+  ],
+  "main": "index.js"
+}
