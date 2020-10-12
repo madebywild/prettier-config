@@ -1,24 +1,23 @@
 {
-  "name": "@madebywild/config-prettier",
+  "name": "@madebywild/prettier-config",
   "version": "0.0.1",
   "description": "wild's Prettier config",
-  "homepage": "https://github.com/madebywild/config-prettier",
+  "homepage": "https://github.com/madebywild/prettier-config",
   "author": "WILD <weare@wild.as> (https://wild.as)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/madebywild/config-prettier/issues"
+    "url": "https://github.com/madebywild/prettier-config/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madebywild/config-prettier.git"
+    "url": "git+https://github.com/madebywild/prettier-config.git"
   },
   "keywords": [
     "prettier",
     "prettierconfig",
     "config",
     "wild",
-    "madebywild",
-    "typescript"
+    "madebywild"
   ],
   "main": "index.js"
 }

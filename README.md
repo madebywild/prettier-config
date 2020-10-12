@@ -1,16 +1,16 @@
-# @madebywild/config-prettier
+# @madebywild/prettier-config
 
 To use it in your project, you need to install this package and prettier:
 
 ```bash
-npm i @madebywild/config-prettier prettier --save-dev
+npm i @madebywild/prettier-config prettier --save-dev
 ```
 
 Then, edit your projects `package.json`:
 
 ```json
 {
-  "prettier": "@madebywild/config-prettier"
+  "prettier": "@madebywild/prettier-config"
 }
 ```
 
