@@ -16,6 +16,8 @@ Then, edit your projects `package.json`:
 
 How to bump version:
 
+Install `np` from https://github.com/sindresorhus/np
+
 ```bash
-npm version patch -m "Bumped version" && npm publish --access public
+npm run release
 ```

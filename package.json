@@ -12,6 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/madebywild/prettier-config.git"
   },
+  "scripts": {
+    "release": "np --no-2fa"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "prettier",
     "prettierconfig",
