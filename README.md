@@ -1,7 +1,5 @@
 # @madebywild/prettier-config
 
-To use it in your project, you need to install this package and prettier:
-
 ```bash
 npm i @madebywild/prettier-config prettier --save-dev
 ```
