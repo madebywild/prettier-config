@@ -25,5 +25,12 @@
     "wild",
     "madebywild"
   ],
-  "main": "index.js"
+  "main": "index.js",
+  "peerDependencies": {
+    "prettier": ">= 3.0.0",
+    "prettier-plugin-tailwindcss": ">= 0.5.11"
+  },
+  "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.5.11"
+  }
 }
